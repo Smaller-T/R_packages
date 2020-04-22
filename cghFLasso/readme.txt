@@ -1,0 +1,1 @@
+只需执行R CMD INSTALL cghFLasso的路径 即可（0.2和0.1随便选一个）
